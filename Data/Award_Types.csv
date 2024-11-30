@@ -1,0 +1,30 @@
+﻿Award_Type_ID,Is_Individual_Player_Award,Is_Team_Award,Is_Coach_Award,Length_of_Award,Award_Name
+1,TRUE,FALSE,FALSE,Match,Man of the Match
+2,TRUE,FALSE,FALSE,Season,Golden Boot
+3,TRUE,FALSE,FALSE,Season,Golden Glove
+4,TRUE,FALSE,FALSE,Month,Team of the Month
+5,TRUE,FALSE,FALSE,Month,Player of the Month
+6,TRUE,FALSE,FALSE,Week,Team of the Week
+7,TRUE,FALSE,FALSE,Week,Player of the Week
+8,TRUE,FALSE,FALSE,Week,Goal of the Week
+9,TRUE,FALSE,FALSE,Week,Save of the Week
+10,TRUE,FALSE,FALSE,Month,Goal of the Month
+11,TRUE,FALSE,FALSE,Month,Save of the Month
+12,FALSE,FALSE,TRUE,Month,Coach of the Month
+13,FALSE,TRUE,FALSE,Season,Eastern Conference Champion
+14,FALSE,TRUE,FALSE,Season,Western Conference Champion
+15,FALSE,TRUE,FALSE,Season,Champion
+16,FALSE,TRUE,FALSE,Season,Players Shield
+17,FALSE,FALSE,TRUE,Season,Coach of the Year
+18,TRUE,FALSE,FALSE,Season,Young Player of the Year
+19,TRUE,FALSE,FALSE,Season,Comeback Player of the Year
+20,TRUE,FALSE,FALSE,Season,Golden Playmaker
+21,TRUE,FALSE,FALSE,Season,Player of the Year
+22,TRUE,FALSE,FALSE,Season,Defender of the Year
+23,TRUE,FALSE,FALSE,Season,Goalkeeper of the Year Finalist
+24,TRUE,FALSE,FALSE,Season,Defender of the Year Finalist
+25,FALSE,FALSE,TRUE,Season,Coach of the Year Finalist
+26,TRUE,FALSE,FALSE,Season,Young Player of the Year Finalist
+27,TRUE,FALSE,FALSE,Season,Player of the Year Finalist
+28,TRUE,FALSE,FALSE,Season,All League First Team
+29,TRUE,FALSE,FALSE,Season,All League Second Team
